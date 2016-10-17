@@ -10,4 +10,5 @@ It contains the basic settings which I use for programming Arduino IDE: Arduino 
 - **boards.txt** (supported boards of Arduino IDE)
 - **platform.txt** (AVR platforms)
 
+Link to video: [how to install drivers CH340, CH340g, CH341, CP2104 CP2102 PL-2303HX for macOS Sierra](https://www.youtube.com/watch?v=SXpej0rwJjs "how to install drivers CH340, CH340g, CH341, CP2104 CP2102 PL-2303HX for macOS Sierra")
 
